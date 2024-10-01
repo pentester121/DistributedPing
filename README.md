@@ -9,4 +9,4 @@ Installation on linux ( only tested on ubuntu and debian )
 
 apt update && apt upgrade -y
 <code>apt install python3 python3-pip</code>
-<div class="github-copy"> pip install requests ping3 python-socketio websocket-client eventlet </div>
+<copy> pip install requests ping3 python-socketio websocket-client eventlet </copy>
