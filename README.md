@@ -6,7 +6,7 @@ Installation on windows :
 
 
 Installation on linux ( only tested on ubuntu and debian ) 
-
+```bash
 apt update && apt upgrade -y
-<code>apt install python3 python3-pip</code>
-<copy> pip install requests ping3 python-socketio websocket-client eventlet </copy>
+apt install python3 python3-pip
+pip install requests ping3 python-socketio websocket-client eventlet
